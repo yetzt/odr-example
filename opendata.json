@@ -1,0 +1,21 @@
+{
+    "name": "odr-example",
+    "version": "0.0.1",
+    "description": "some example data",
+    "license": "CC0-1.0",
+    "files": [
+        "data/example.tsv"
+    ],
+    "contributors": [{
+        "name": "yetzt",
+        "url": "https://yetzt.me"
+    }],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/yetzt/odr-example.git"
+    },
+    "keywords": ["odr","example"],
+    "homepage": "https://github.com/yetzt/odr-example",
+    "bugs": "https://github.com/yetzt/odr-example/issues",
+    "engines": { "odr": "0.0.1" }
+}
